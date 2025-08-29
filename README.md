@@ -1,4 +1,3 @@
-```markdown
 # 💹 Stock Sentiment Analysis: FinBERT to LLM
 
 ## 🎯 Executive Summary
