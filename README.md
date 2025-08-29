@@ -4,12 +4,6 @@
 
 A production-grade financial sentiment analysis pipeline that transforms multi-source market intelligence into institutional-quality investment insights. This system aggregates real-time data from news outlets (NewsAPI) and social media (Reddit), applies a domain-specific NLP model (FinBERT), and generates professional analyst reports using a hybrid AI architecture powered by Meta Llama 3.
 
-<div align="center">
-  <img src="https://i.imgur.com/your_image_url.png" alt="Pipeline Architecture" width="900"/>
-  <br/>
-  <em>End-to-End Financial Intelligence Pipeline: From Raw Data to Actionable Insights</em>
-</div>
-
 ## 📊 Performance Metrics
 
 | Metric | Value | Benchmark |
