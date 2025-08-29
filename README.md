@@ -165,4 +165,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   ·
   <a href="https://github.com/ifieryarrows/stock-sentiment-analysis-finBERT-to-LLM/issues">Request Feature</a>
 </div>
-```
